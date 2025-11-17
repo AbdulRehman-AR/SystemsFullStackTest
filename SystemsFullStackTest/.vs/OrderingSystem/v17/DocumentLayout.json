@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practice\\SystemsFullStackTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|c:\\practice\\systemsfullstacktest\\src\\application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|solutionrelative:src\\application\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|c:\\practice\\systemsfullstacktest\\src\\application\\handlers\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|solutionrelative:src\\application\\handlers\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|c:\\practice\\systemsfullstacktest\\src\\application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEBE6B8-C21B-47EC-8694-B06AFF0D1F0E}|src\\Application\\Application.csproj|solutionrelative:src\\application\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|c:\\practice\\systemsfullstacktest\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC97003-6A51-4D9B-9425-6E2C40764EE6}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\systemsfullstacktest\\src\\infrastructure\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC97003-6A51-4D9B-9425-6E2C40764EE6}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|c:\\practice\\systemsfullstacktest\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC97003-6A51-4D9B-9425-6E2C40764EE6}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\systemsfullstacktest\\src\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC97003-6A51-4D9B-9425-6E2C40764EE6}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|c:\\practice\\systemsfullstacktest\\src\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FB8E22-B30E-40A6-9F06-D59E60FD0787}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117B56-176E-4987-BACC-6FD0055B4DDA}|src\\Domain\\Domain.csproj|c:\\practice\\systemsfullstacktest\\src\\domain\\entities\\canteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B117B56-176E-4987-BACC-6FD0055B4DDA}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\canteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:53:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:37:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:32:59.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "src\\Application\\Queries\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:32:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:32:30.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Handlers\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:49:48.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Canteen.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Domain\\Entities\\Canteen.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Canteen.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Domain\\Entities\\Canteen.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Canteen.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:46:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T08:35:27.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\practice\\SystemsFullStackTest\\src\\Infrastructure\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\practice\\SystemsFullStackTest\\src\\Infrastructure\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:22:05.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

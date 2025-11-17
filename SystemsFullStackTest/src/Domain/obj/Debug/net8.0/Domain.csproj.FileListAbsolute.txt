@@ -1,0 +1,11 @@
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\practice\SystemsFullStackTest\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\practice\SystemsFullStackTest\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\practice\SystemsFullStackTest\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\practice\SystemsFullStackTest\src\Domain\obj\Debug\net8.0\ref\Domain.dll

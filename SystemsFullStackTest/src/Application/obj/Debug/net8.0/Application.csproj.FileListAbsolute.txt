@@ -1,0 +1,15 @@
+C:\practice\SystemsFullStackTest\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\practice\SystemsFullStackTest\src\Application\bin\Debug\net8.0\Application.dll
+C:\practice\SystemsFullStackTest\src\Application\bin\Debug\net8.0\Application.pdb
+C:\practice\SystemsFullStackTest\src\Application\bin\Debug\net8.0\Domain.dll
+C:\practice\SystemsFullStackTest\src\Application\bin\Debug\net8.0\Domain.pdb
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.dll
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\Application.pdb
+C:\practice\SystemsFullStackTest\src\Application\obj\Debug\net8.0\ref\Application.dll
