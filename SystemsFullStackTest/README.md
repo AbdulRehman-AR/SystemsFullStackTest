@@ -47,6 +47,8 @@ A minimal ordering and payments API built with .NET 8, implementing Clean Archit
 8. **Background Jobs**: Add background job processing for order fulfilment notifications and stock replenishment.
 9. **Timezone Handling**: Proper timezone handling for Sydney/Australia timezone for cutoff times.
 10. **Refund Processing**: Implement refund workflow for cancelled orders.
+11. **Application Service**: Implement a dedicated Application Service for clean decoupling and lean handlers.
+
 
 ## How to Run Locally
 
